@@ -1,6 +1,6 @@
 <?php
 $config_files = [
-    'Camera' => '~/.config/aeroServer-camera/parameters.json',
+    'Camera' => 'home/aeroServer/.config/aeroServer-camera/parameters.json',
 ];
 
 $config = [];
