@@ -8,7 +8,7 @@ $config = [];
 foreach ($config_files as $title => $file) {
     $config[$title] = json_decode($file);
 }
-
+echo "OK";
 ?>
 <!DOCTYPE html>
 <html>
